@@ -1,0 +1,6 @@
+{
+  "name": "SaaS Factory AI",
+  "description": "A platform where users input SaaS ideas and AI generates full startup blueprints that can be saved, monetized, exported, and shared in a marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
